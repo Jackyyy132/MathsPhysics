@@ -1,0 +1,7 @@
+Trajectory Details: 
+
+Angle is: 45.0 degrees
+Distance travelled is: 22.93578 metres
+Maximum height reached is: 5.7339454 metres
+Time of flight is: 2.162406 seconds
+Number of coordinates: 23.0
